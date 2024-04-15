@@ -6,4 +6,8 @@ Esse é um pequeno projeto que foi realizado atravez de aulas gratuitas da DevCl
 
 2º dia- Finalizando HTML, atribuindo links e estilizando com CSS.
 
-3º dia- Completando projeto.
+3º dia- Criando script em Javascript para o funcionamento do projeto.
+
+4º dia- Finalizando projeto o colocando no ar para que outras pessoas possam visualizar e utilizar.
+
+https://clima-tempo2024.netlify.app
